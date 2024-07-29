@@ -12,15 +12,7 @@ Welcome to my GitHub profile! I’m a developer diving into the world of program
 
 #### Databases
 
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 #### Tools
-
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white)
-- ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-1F4F6F?style=flat&logo=visual-paradigm&logoColor=white)
+ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-1F4F6F?style=flat&logo=visual-paradigm&logoColor=white)
