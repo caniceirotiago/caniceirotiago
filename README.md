@@ -2,11 +2,9 @@
 
 Welcome to my GitHub profile! I’m a developer diving into the world of programming and technology, with a background in veterinary medicine.
 
-### About Me
-
 - 🏛️ I recently completed the "Acertar o Rumo" course at the University of Coimbra, where I deepened my knowledge in Java, Jakarta EE and React.
 - 🚀 Currently, I’m enhancing my skills in various technologies and exploring new libraries and frameworks.
-- 🔭 I’m working on [Project X], which aims to [briefly describe the project].
+-   In a previous career, I spent 6 years as a veterinarian. This experience has given me a unique perspective and problem-solving skills that I now bring to my tech projects.
 
 ### Technologies & Tools
 
@@ -24,7 +22,4 @@ Here are some technologies and tools I’ve worked with:
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-### Veterinary Background
-
-In a previous career, I spent 6 years as a veterinarian. This experience has given me a unique perspective and problem-solving skills that I now bring to my tech projects.
 
