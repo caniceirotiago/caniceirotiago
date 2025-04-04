@@ -3,9 +3,7 @@
 Welcome to my GitHub profile! I’m a developer diving into the world of programming and technology, with a background in veterinary medicine.
 
 - 🏢 Currently, I work as a software developer, contributing to diverse projects that involve technologies like Docker, Django, React, and Spring Boot.
-- 🏛️ I recently completed the "Acertar o Rumo" course at the University of Coimbra, where I deepened my knowledge in Java, Jakarta EE and React.
-- 🚀 Currently, I’m enhancing my skills in various technologies and exploring new libraries and frameworks.
--   In a previous career, I spent 6 years as a veterinarian. This experience has given me a unique perspective and problem-solving skills that I now bring to my tech projects.
+- In a previous career, I spent 6 years as a veterinarian. This experience has given me a unique perspective and problem-solving skills that I now bring to my tech projects.
 
 #### Programming Languages & Frameworks
 
